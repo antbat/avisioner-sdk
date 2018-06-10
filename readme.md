@@ -1,1 +1,3 @@
-it is a node.js avisioner.com public API SDK
+# aVisioner SDK for NodeJS
+
+npm install avisioner --save
